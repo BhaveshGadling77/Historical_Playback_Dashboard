@@ -1,1 +1,8 @@
-{"('Adj Close', 'ABX')":{},"('Close', 'ABX')":{},"('High', 'ABX')":{},"('Low', 'ABX')":{},"('Open', 'ABX')":{},"('Volume', 'ABX')":{}}
+{
+        "('Adj Close', 'ABX')": {},
+        "('Close', 'ABX')": {},
+        "('High', 'ABX')": {},
+        "('Low', 'ABX')": {},
+        "('Open', 'ABX')": {},
+        "('Volume', 'ABX')": {}
+}

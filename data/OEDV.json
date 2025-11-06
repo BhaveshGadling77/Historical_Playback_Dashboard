@@ -1,1 +1,8 @@
-{"('Adj Close', 'OEDV')":{},"('Close', 'OEDV')":{},"('High', 'OEDV')":{},"('Low', 'OEDV')":{},"('Open', 'OEDV')":{},"('Volume', 'OEDV')":{}}
+{
+        "('Adj Close', 'OEDV')": {},
+        "('Close', 'OEDV')": {},
+        "('High', 'OEDV')": {},
+        "('Low', 'OEDV')": {},
+        "('Open', 'OEDV')": {},
+        "('Volume', 'OEDV')": {}
+}

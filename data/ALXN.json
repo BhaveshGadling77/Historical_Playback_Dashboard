@@ -1,1 +1,8 @@
-{"('Adj Close', 'ALXN')":{},"('Close', 'ALXN')":{},"('High', 'ALXN')":{},"('Low', 'ALXN')":{},"('Open', 'ALXN')":{},"('Volume', 'ALXN')":{}}
+{
+        "('Adj Close', 'ALXN')": {},
+        "('Close', 'ALXN')": {},
+        "('High', 'ALXN')": {},
+        "('Low', 'ALXN')": {},
+        "('Open', 'ALXN')": {},
+        "('Volume', 'ALXN')": {}
+}

@@ -1,1 +1,8 @@
-{"('Adj Close', 'WBA')":{},"('Close', 'WBA')":{},"('High', 'WBA')":{},"('Low', 'WBA')":{},"('Open', 'WBA')":{},"('Volume', 'WBA')":{}}
+{
+        "('Adj Close', 'WBA')": {},
+        "('Close', 'WBA')": {},
+        "('High', 'WBA')": {},
+        "('Low', 'WBA')": {},
+        "('Open', 'WBA')": {},
+        "('Volume', 'WBA')": {}
+}
